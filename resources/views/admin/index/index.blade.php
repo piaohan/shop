@@ -1,0 +1,1 @@
+@extends('admin.layouts.master')@section('content')welcome@endsection<!--定义底部按钮-->@section('script')<!--alertInfo JS--><script src="{{asset('/js/classie.js')}}"></script><script src="{{asset('/js/modaleffects.js')}}"></script><!--alertInfo end--><script src="{{asset('/js/jquery.validate.min.js')}}"></script>@endsection
